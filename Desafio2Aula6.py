@@ -1,0 +1,7 @@
+texto=input('Digite o seu texto:')
+print(type(texto))
+print(texto.isnumeric())
+print(texto.isalpha())
+print(texto.isalnum())
+print(texto.isupper())
+print(texto.islower())
